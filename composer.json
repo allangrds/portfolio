@@ -1,0 +1,16 @@
+{
+  "name": "allan/portfolio",
+  "description": "Meu portfolio",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Allan Ramos",
+      "email": "allangrds@gmail.com"
+    }
+  ],
+  "require": {
+      "vlucas/phpdotenv": "2.4",
+      "phpmailer/phpmailer": "^6.0"
+  }
+}
